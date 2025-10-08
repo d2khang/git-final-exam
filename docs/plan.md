@@ -10,10 +10,15 @@ Viết tối thiểu 10 dòng, ví dụ:
 - Tuần này tập trung cải thiện tốc độ sử dụng Git.
 - Mục tiêu là áp dụng Git vào dự án nhóm.
 - Lên kế hoạch học Git nâng cao vào tuần sau.
+<<<<<<< Updated upstream
 - Học thêm về git rebase để tối ưu lịch sử commit.
 - Thực hành sử dụng GitHub Actions.
 - Tìm hiểu Git hooks để tự động hóa.
 - Ôn lại các lệnh Git nâng cao.
+=======
+- Lên kế hoạch làm bài tập Git hàng ngày.
+- Tham gia cộng đồng Git để học hỏi kinh nghiệm.
+>>>>>>> Stashed changes
 
 Ghi chú:
 Ngày bắt đầu: 08/10/2025
