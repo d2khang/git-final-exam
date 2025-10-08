@@ -1,0 +1,6 @@
+Tính năng mới: [Mô tả tính năng:
+- Cho phép người dùng đăng nhập bằng email và mật khẩu.
+- Xác thực thông tin đăng nhập qua cơ sở dữ liệu.
+- Hiển thị thông báo lỗi nếu thông tin không hợp lệ.
+- Tích hợp tính năng "Quên mật khẩu" để gửi email khôi phục.
+- Đảm bảo bảo mật thông tin bằng mã hóa mật khẩu.
