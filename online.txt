@@ -2,3 +2,8 @@ Cảm nhận về Git:
 - Git giúp quản lý mã nguồn hiệu quả và dễ dàng theo dõi thay đổi.
 - Git hỗ trợ làm việc nhóm tốt hơn qua các branch.
 - Git cung cấp khả năng khôi phục dữ liệu khi có lỗi.
+Dòng 1: Đây là file được tạo trên GitHub.
+Dòng 2: Dùng để kiểm tra đồng bộ với local.
+Dòng 3: Commit trực tiếp từ web.
+Dòng 4: Thêm nội dung từ local.
+Dòng 5: Kiểm tra push lên GitHub.
