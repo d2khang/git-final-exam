@@ -2,5 +2,3 @@ Cảm nhận về Git:
 - Git giúp quản lý mã nguồn hiệu quả và dễ dàng theo dõi thay đổi.
 - Git hỗ trợ làm việc nhóm tốt hơn qua các branch.
 - Git cung cấp khả năng khôi phục dữ liệu khi có lỗi.
-- Git stash rất hữu ích khi cần lưu tạm thay đổi.
-- GitHub làm việc với Git trở nên trực quan hơn.
