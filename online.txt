@@ -1,0 +1,4 @@
+Cảm nhận về Git:
+- Git giúp quản lý mã nguồn hiệu quả và dễ dàng theo dõi thay đổi.
+- Git hỗ trợ làm việc nhóm tốt hơn qua các branch.
+- Git cung cấp khả năng khôi phục dữ liệu khi có lỗi.
