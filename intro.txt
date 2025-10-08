@@ -10,3 +10,10 @@ Tôi tên là Dương Duy Khang, sinh năm 2004, hiện là sinh viên tại ĐH
 - [Kỹ năng 1: Suy nghĩ Logic]
 - [Kỹ năng 2: Quản lý thời gian]
 - [Kỹ năng 3: Làm việc nhóm]
+Kế hoạch học tập:
+
+- Tuần này tôi sẽ học các lệnh Git cơ bản như commit, push, pull.
+- Tôi sẽ thực hành tạo và quản lý branch để hiểu cách làm việc nhóm.
+- Tôi dự định xem video hướng dẫn Git trên YouTube để nắm rõ hơn.
+- Tôi sẽ đọc tài liệu chính thức của Git để hiểu sâu về cách hoạt động.
+- Mục tiêu là sử dụng Git thành thạo trong dự án nhóm sắp tới.
