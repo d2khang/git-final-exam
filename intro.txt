@@ -1,6 +1,9 @@
 Giới thiệu cá nhân:
 Hello, this is Dương Duy Khang, sinh năm 2004, hiện là sinh viên tại ĐH NCT
 
+Xin chào, tôi là Dương Duy Khang, sinh năm 2004, hiện là sinh viên tại ĐH NCT
+
+
 3 sở thích:
 - [Sở thích 1: Tập Gym]
 - [Sở thích 2: Đi chơi với bạn]
@@ -17,3 +20,4 @@ Kế hoạch học tập:
 - Tôi dự định xem video hướng dẫn Git trên YouTube để nắm rõ hơn.
 - Tôi sẽ đọc tài liệu chính thức của Git để hiểu sâu về cách hoạt động.
 - Mục tiêu là sử dụng Git thành thạo trong dự án nhóm sắp tới.
+Conflict resolved on 08/10/2025
